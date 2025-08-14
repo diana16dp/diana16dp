@@ -25,7 +25,7 @@ With experience in both the visual and functional aspects of web programming, Iâ
 
 ![](https://github-readme-stats.vercel.app/api?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mahdiiye&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdiiye&theme=pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
