@@ -24,11 +24,6 @@ With experience in both the visual and functional aspects of web programming, I�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
-| ----------|
-<div align="Center">
-| <a href="mailto:dianapereyra2116@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/diana16dp"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/diana16dp](https://discord.gg/ANYdrJyu)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
-</div>
 
 
 ### ✍️ Random Dev Quote
