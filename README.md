@@ -1,5 +1,8 @@
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
+I’m Diana, a passionate Full Stack developer with a strong focus on frontend web development. I love crafting intuitive, responsive, and visually engaging websites while keeping my code clean, efficient, and maintainable.
+With experience in both the visual and functional aspects of web programming, I’m constantly exploring new tools, improving my skills, and bringing ideas to life through the web.
+
+💡 Driven by curiosity, inspired by challenges, and committed to continuous growth.
 
 
 
@@ -27,6 +30,3 @@
 
 ------
 
-Credit: [Aneal07](https://github.com/Aneal07)
-
-Last Edited on: 18/11/2023
