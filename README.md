@@ -28,6 +28,8 @@ With experience in both the visual and functional aspects of web programming, I�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
 
 
 ### ✍️ Random Dev Quote
