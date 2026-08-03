@@ -1,4 +1,4 @@
-# 🍓 About Me:
+<img src="https://media.giphy.com/media/F4sYY8dyW971Xeq2gG/giphy.gif" width="40px">&nbsp;***About me***
   
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
